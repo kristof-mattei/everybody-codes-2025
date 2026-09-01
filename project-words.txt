@@ -1,6 +1,5 @@
 aabcbabcab
 abccbaacb
-adduser
 appgroup
 appuser
 artipacked
@@ -32,7 +31,6 @@ mornfeth
 multiplatform
 mypy
 nextest
-nvmrc
 pastey
 pathbuf
 postprocessors
@@ -41,6 +39,7 @@ profraw
 pyflakes
 retag
 retagging
+rhysd
 rustflags
 samply
 sccache
