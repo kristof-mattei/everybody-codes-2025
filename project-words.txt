@@ -8,6 +8,7 @@ buildcache
 cabcabc
 cbca
 cinstrument
+cliffignore
 ctarget
 cves
 dalkryth
@@ -24,12 +25,10 @@ hubot
 idents
 ilog
 kristof
-lldb
 mattei
 monomorphization
 mornfeth
 multiplatform
-mypy
 nextest
 pastey
 pathbuf
@@ -37,6 +36,7 @@ postprocessors
 prereleased
 profraw
 pyflakes
+rawfile
 retag
 retagging
 rhysd
@@ -45,6 +45,7 @@ samply
 sccache
 skopeo
 skopeo's
+slurpfile
 startswith
 striptags
 swellaby
