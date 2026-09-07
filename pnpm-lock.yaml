@@ -551,8 +551,8 @@ packages:
     engines: {node: '>=4'}
     hasBin: true
 
-  fast-equals@6.0.2:
-    resolution: {integrity: sha512-sAjhj9ZhOxYCGiNMnZLaucOqf5ZeFnHNoKoAZiD9thhJ0N8RP85qJK759/97C/3L7NzzmGVB5uiX9AUpySZmUQ==}
+  fast-equals@6.0.3:
+    resolution: {integrity: sha512-IECu4C0fFZFoUC2cA2rDaNUuVIfWIZMwh3tY+ng924vOuD9OaUFFrcIrVwCKbV7TJDkGmrHfhwZ7R0AnHfVhyw==}
     engines: {node: '>=6.0.0'}
 
   fast-json-stable-stringify@2.1.0:
@@ -959,7 +959,7 @@ snapshots:
       '@cspell/cspell-pipe': 10.2.2
       '@cspell/cspell-types': 10.2.2
       cspell-trie-lib: 10.2.2(@cspell/cspell-types@10.2.2)
-      fast-equals: 6.0.2
+      fast-equals: 6.0.3
 
   cspell-gitignore@10.2.2:
     dependencies:
@@ -1042,7 +1042,7 @@ snapshots:
 
   esprima@4.0.1: {}
 
-  fast-equals@6.0.2: {}
+  fast-equals@6.0.3: {}
 
   fast-json-stable-stringify@2.1.0: {}
 
