@@ -25,6 +25,7 @@ hubot
 idents
 ilog
 kristof
+lintian
 mattei
 monomorphization
 mornfeth
