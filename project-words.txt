@@ -30,6 +30,7 @@ monomorphization
 mornfeth
 multiplatform
 nextest
+oras
 pastey
 pathbuf
 postprocessors
