@@ -35,6 +35,7 @@ nextest
 oras
 pastey
 pathbuf
+pkgs
 postprocessors
 prereleased
 profraw
@@ -58,6 +59,7 @@ telem
 tera
 tharnlorath
 topo
+tostring
 trixie
 trunc
 uninlined
