@@ -11,7 +11,6 @@ cbca
 cinstrument
 cliffignore
 ctarget
-cves
 dalkryth
 deque
 dorny
@@ -37,7 +36,6 @@ pastey
 pathbuf
 pkgs
 postprocessors
-prereleased
 profraw
 pyflakes
 rawfile
