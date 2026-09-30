@@ -27,6 +27,7 @@ ilog
 kristof
 lintian
 mattei
+mkhl
 monomorphization
 mornfeth
 multiplatform
